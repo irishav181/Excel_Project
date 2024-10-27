@@ -1,9 +1,7 @@
 # Sales Report
 
-	1. Customer Performance Report:
-		○ Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
-	2. Market Performance and Sales Targets Comparison:
-		○ Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
+	1. Customer Performance Report: Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
+	2. Market Performance and Sales Targets Comparison:Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 	
 # Finance Report
 
