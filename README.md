@@ -1,4 +1,4 @@
-#Sales Report
+# Sales Report
 
     1. Customer Performance Report:
          Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
